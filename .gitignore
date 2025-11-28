@@ -1,0 +1,4 @@
+*.bin
+*.apikey
+*.secret
+__pycache__
