@@ -1,4 +1,4 @@
-from album import *
+from lastfm.album import *
 import json
 
 apikey = open('lastfm/.apikey').read()
